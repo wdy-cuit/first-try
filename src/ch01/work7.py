@@ -1,0 +1,16 @@
+s=[1,2,3,4,5,6]
+s[1]="a"
+print(s)
+s[2]=[]
+print(s)
+del(s[3])
+print(s)
+print(s[:2])
+s[2:3]=[]
+print(s)
+s[:1]=[]
+print(s)
+s[:2]="b"
+print(s)
+del(s[:1])
+print(s)

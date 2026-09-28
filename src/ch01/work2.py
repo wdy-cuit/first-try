@@ -1,0 +1,8 @@
+print(id(123))
+print(type(123))
+print(type(1.223))
+print(123)
+print(type(abs))
+print(id(abs))
+print(type(range))
+print(id(range))

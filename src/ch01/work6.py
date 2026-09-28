@@ -1,0 +1,17 @@
+s='hello cuit!'
+print("len(s)=",len(s))
+print("max(s)=",max(s))
+print("min(s)=",min(s))
+print("s[o]=",s[0])
+print("s[-1]=",s[-1])
+print("s[-2]=",s[-2])
+print("s[2:5]=",s[2:5])
+print("s[2:-2]=",s[2:-2])
+print("s[:]=",s[:])
+print("s[:-1]=",s[:-1])
+print("x is s=","x" is s)
+print("x is not s=","x" is not s)
+s2=""
+print("len(s2)=",len(s2))
+t=(10,2,3)
+print("len(t)=",len(t))
